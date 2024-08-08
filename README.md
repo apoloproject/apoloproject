@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apolo</h1>
-<h3 align="center">I love penguins and hate seyfert 🐧</h3>
+<p align="center">I love penguins and hate seyfert 🐧
 
 <h1 align="left">Languages I use 🐧</h1>
 
