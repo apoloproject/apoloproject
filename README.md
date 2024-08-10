@@ -5,7 +5,7 @@
 <h2 align="left">Languages I Use 🐧</h2>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/apoloproject">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,dotnet,css,html,js,typescript,git,tensorflow,pytorch,bash,rust&perline=12" alt="Languages and Tools" />
   </a>
 </p>
